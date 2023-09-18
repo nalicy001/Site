@@ -1,0 +1,19 @@
+.background{
+    background-image: url(v915-mynt-008-d.jpg);
+    width: 100%;
+    height: 100%;
+}
+
+.fundo{
+    display: flex;
+}
+.lista{
+    color: white;
+    text-align: right;
+}
+.background-imagem{
+    width: 30%;
+    height: 30px;
+    left: 100%;
+    justify-items: center;
+}
